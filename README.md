@@ -1,14 +1,14 @@
-# Nerfies
+# LTGC
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [LTGC](https://ltgc.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{zhao2024ltgc,
+  title={LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content},
+  author={Zhao, Qihao and Dai, Yalun and Li, Hao and Hu, Wei and Zhang, Fan and Liu, Jun},
+  journal={arXiv preprint arXiv:2403.05854},
+  year={2024}
 }
 ```
 
